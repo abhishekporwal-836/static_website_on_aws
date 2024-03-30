@@ -1,4 +1,4 @@
-# Static Website Deployment on AWS Implementation
+# Static Website Deployment on AWS 
 
 ## Table of Contents
 1. [VPC Setup](#1-vpc-setup)

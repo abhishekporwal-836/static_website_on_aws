@@ -1,10 +1,12 @@
 # Static Website Deployment on AWS 
+
+# Implementation PDF: [Click here! ](https://drive.google.com/file/d/1c2JodbiewzQ_YQR4NzqVT85_QVoyboNz/view?usp=sharing)
+
 ## Architecture Diagram
 <div align="center">
   <img src="./Documents/architecture-diagram.gif" alt="Logo" width="100%" height="100%">
 </div>
 
-# Implementation PDF: [Click here! ](https://drive.google.com/file/d/1c2JodbiewzQ_YQR4NzqVT85_QVoyboNz/view?usp=sharing)
 
 ## Table of Contents
 1. [VPC Setup](#1-vpc-setup)

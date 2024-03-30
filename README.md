@@ -1,20 +1,20 @@
 # Project VPC Setup Guide
 
 ## Table of Contents
-1. [VPC Setup](#vpc-setup)
-2. [Internet Gateway](#internet-gateway)
-3. [Subnet Configuration](#subnet-configuration)
-4. [Public Route Table](#public-route-table)
-5. [Subnet Association](#subnet-association)
-6. [NAT Gateway Setup](#nat-gateway-setup)
-7. [Private Route Table](#private-route-table)
-8. [Security Groups](#security-groups)
-9. [Web Server Security Group](#web-server-security-group)
-10. [EC2 Instances Launch](#ec2-instances-launch)
-11. [Automation Scripting](#automation-scripting)
-12. [Target Group Creation](#target-group-creation)
-13. [Website Accessibility](#website-accessibility)
-14. [AWS Route 53 Integration](#aws-route-53-integration)
+1. [VPC Setup](#1-vpc-setup)
+2. [Internet Gateway](#2-internet-gateway)
+3. [Subnet Configuration](#3-subnet-configuration)
+4. [Public Route Table](#4-public-route-table)
+5. [Subnet Association](#5-subnet-association)
+6. [NAT Gateway Setup](#6-nat-gateway-setup)
+7. [Private Route Table](#7-private-route-table)
+8. [Security Groups](#8-security-groups)
+9. [Web Server Security Group](#9-web-server-security-group)
+10. [EC2 Instances Launch](#10-ec2-instances-launch)
+11. [Automation Scripting](#11-automation-scripting)
+12. [Target Group Creation](#12-target-group-creation)
+13. [Website Accessibility](#13-website-accessibility)
+14. [AWS Route 53 Integration](#14-aws-route-53-integration)
 
 
 ## 1. VPC Setup:
@@ -118,8 +118,7 @@
   Accessed the DNS of the target group to view and interact with the website, allowing users to access the website using a domain name.
 
 ## 14. AWS Route 53 Integration:
- 
-- **Domain Management:** Utilized AWS Route 53 for DNS management throughout the project, enabling the registration and management of domain names for the deployed website.
+- **Domain Management:** 
+  Utilized AWS Route 53 for DNS management throughout the project, enabling the registration and management of domain names for the deployed website.
 - **Dynamic DNS Updates:**
   Route 53 supports dynamic DNS updates, allowing for automatic changes to DNS records based on changes in the infrastructure, such as IP address updates or resource additions/removals. This ensures that the DNS configuration remains up-to-date without manual intervention, improving overall system reliability and reducing administrative overhead.
-

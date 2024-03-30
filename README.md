@@ -1,7 +1,6 @@
 # Static Website Deployment on AWS 
 ## Architecture Diagram
 <div align="center">
-  <p >Home Page</p>
   <img src="./Documents/architecture-diagram.gif" alt="Logo" width="100%" height="100%">
 
 </div>

@@ -1,4 +1,4 @@
-# Project VPC Setup Guide
+# Static Website Deployment on AWS Implementation
 
 ## Table of Contents
 1. [VPC Setup](#1-vpc-setup)
